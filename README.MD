@@ -9,6 +9,14 @@ os Googlers, cada um com suas próprias perspectivas e histórias únicas. Como 
 Googlers criaram este programa, você aprenderá as informações mais práticas
 necessárias para iniciar sua própria carreira de design de UX.
 
+## [Lean UX [Neste mesmo curso]](lean_ux/README.MD)
+
+## [Os 4 Cs do Design [Neste mesmo curso]](os_4_C_s_do_design/README.MD)
+
+## [Pesquisa [Neste mesmo curso]](pesquisa/README.MD)
+
+## [Vieses de Pesquisa Importante Ler [Neste mesmo curso]](pesquisa/vies/README.MD)
+
 ## Estrutura
 ![Estrutura](img/intro/00_structure.png)
 
