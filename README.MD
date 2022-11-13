@@ -17,6 +17,8 @@ necessárias para iniciar sua própria carreira de design de UX.
 
 ## [Vieses de Pesquisa Importante Ler [Neste mesmo curso]](pesquisa/vies/README.MD)
 
+## [Mapa da Empatia [Neste mesmo curso]](entrevista/README.MD)
+
 ## Estrutura
 ![Estrutura](img/intro/00_structure.png)
 
