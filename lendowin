@@ -1,0 +1,99 @@
+histórias de usuários
+Ua maneira útil de entender seus usuários é criando uma história em torno das experiências 
+deles com seu produto. Como um lembrete, uma história de usuário é uma história fictícia 
+de uma frase que conta o ponto de vista da persona para inspirar e informar as decisões 
+de design. Ela é uma ótima oportunidade de usar sua imaginação para criar histórias que 
+envolvem as necessidades dos usuários.
+As histórias de usuário devem ser escritas no seguinte formato:
+
+----------------------------------
+Usar esse formato é uma maneira clara de garantir que a história de usuário comunique tudo 
+o que você precisa saber sobre a persona. As histórias de usuário que você criar serão 
+muito valiosas quando você começar a projetar seu produto. As histórias de usuários também 
+podem servir como uma “lista de verificação” para garantir que você está abordando e 
+resolvendo os principais problemas que seus usuários podem enfrentar ao interagirem com 
+seu produto. 
+
+A prática recomendada de histórias de usuário é que elas sejam curtas, impactantes e 
+objetivas, com uma ação e um benefício claros.
+
+1. Tobias - Como viajo com frequência, quero contratar uma pessoa para passear com meus cães para 
+que eu me sinta bem em relação à segurança dos meus animais de estimação durante as férias.
+
+2. Carlos - Sou um estudante indeciso, quero testar muitos passeadores para poder escolher um 
+para passeios regulares.
+
+3. Daniella - Como mãe de dois filhos, quero limitar o acesso à minha casa para manter minha 
+família segura.
+
+4. Matias - Como ex-policial, quero poder rastrear a pessoa que passeia com meus cães para que 
+eu me sinta confortável em relação à segurança dos meus animais de estimação.
+
+
+A acessibilidade é o design de produtos, dispositivos, serviços ou ambientes para pessoas com deficiência. Projetar pensando na acessibilidade significa considerar as jornadas de todos os usuários, tendo em mente deficiências permanentes, temporárias ou situacionais. Ao pesquisar como as pessoas com deficiência interagem com produtos como o seu, você entende melhor como projetar para elas. Não é possível adivinhar com precisão todas as formas como um usuário pode interagir com seu produto. Esse é um motivos pelos quais incluir pessoas com deficiência na sua pesquisa é tão importante. 
+
+Aqui estão algumas coisas que devem ser consideradas ao conduzir pesquisas durante a fase de empatia do processo de design.
+
+img acessibilidade
+------------------------------------------------------------------------------
+
+Tato: Como você projetaria o design para usuários que usam um braço, seja de forma permanente, temporária ou situacional?
+
+    Decida onde colocar os botões no seu design com base em vários tamanhos diferentes de mão.
+
+    Crie um recurso que permita toques duplos para evitar cliques acidentais no ícone.
+
+    Ative o recurso de teclado de uma mão e a compatibilidade geral do teclado.
+
+    Permita a personalização dos botões para facilitar o acesso às informações que o usuário considera mais importantes.
+Visão
+
+Da esquerda para direita: Permanente (cego), temporária (usa óculos) e situacional (motorista distraído)
+
+Visão: Como você projetaria o design para usuários com visão limitada, seja de forma permanente, temporária ou situacional?
+
+    Use uma fonte maior para que o design do aplicativo seja fácil de ler.
+
+    Certifique-se de que o aplicativo e as imagens tenham um texto alternativo que possa ser lido por um leitor de tela.
+
+    Detecte se o usuário está dirigindo um veículo motorizado.
+
+    Use cores de alto contraste no design do aplicativo.
+
+    Não dependa da cor do texto para explicar a navegação ou as próximas etapas. Por exemplo, não use somente o texto em vermelho para sinalizar um aviso. Em vez disso, o design deve incluir instruções explícitas.
+	Texto personalizável
+
+Existem outras ferramentas de acessibilidade na web que podem ser benéficas para pessoas com dislexia ou outras deficiências de processamento visual. Uma delas é o texto personalizável, um recurso que permite que os usuários alterem a como o texto é exibido para que ele seja lido com mais facilidade.  Personalizar o texto envolve alterar tudo relacionado ao texto, desde a cor ou fonte até o tamanho e o espaçamento. Por exemplo, algumas fontes podem ser mais fáceis de ler do que outras, então personalizar as fontes pode ajudar muito. Assim, o texto personalizável permite mais opções, que vão além de simplesmente ampliar o texto ou aumentar o zoom. Com isso, o conteúdo fica mais adaptável, mas a funcionalidade permanece.
+--------------------------------------------------------------------------------
+
+Audição
+
+Da esquerda para a direita: permanente (pessoa surda), temporária (infecção no ouvido) e situacional (bartender)
+
+Audição: Como você projetaria o design para usuários com audição limitada, seja de forma permanente, temporária ou situacional? 
+
+    Não confie apenas de sons para informar sobre atualizações de aplicativos, como uma notificação de nova mensagem. Em vez disso, ative a sensação tátil, que são vibrações que envolvem o sentido do tato do usuário, além de luzes de notificação.
+
+    Aplique closed caption em todos os vídeos. 
+
+    Forneça um sistema de mensagens de texto dentro do aplicativo para permitir que os usuários se comuniquem por escrito.
+----------------------------------------------------------------------------------------------------------------------------------
+ala
+
+Da esquerda para a direita: permanente (não verbal), temporária (laringite) e situacional (falante não nativa)
+
+Fala: Como você projetaria o design para usuários que não falam, seja de forma permanente, temporária ou situacional? 
+
+    Forneça introduções, descrições e instruções por escrito para os usuários, além de conteúdo baseado em vídeo.
+
+    Forneça mensagens de texto em tempo real durante chamadas telefônicas com usuários ou com o suporte do aplicativo.
+
+    Inclua alternativas para sistemas automatizados que dependem de reconhecimento de voz.
+
+    Forneça um sistema de mensagens no aplicativo que permita usar emojis e uploads de imagens.
+
+Esta lista é apenas uma pequena fração das coisas que você deve considerar quando projetar para usuários com deficiências. A melhor maneira de aprender sobre como aprimorar seus projetos é conduzir pesquisas e receber feedback direto de pessoas com deficiência.
+------------------------------------------------------------------------------------
+O que é o efeito da rampa de meio-fio?
+Um fenômeno que descreve como produtos e políticas voltados a pessoas com deficiência muitas vezes acabam ajudando todos.
+Pessoas com deficiência, idosos, pessoas com carrinho, ou cargas.
